@@ -1,5 +1,9 @@
 /.phpunit.cache
 /node_modules
+<<<<<<< Updated upstream
+=======
+/public/assets
+>>>>>>> Stashed changes
 /public/build
 /public/hot
 /public/storage
